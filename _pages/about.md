@@ -128,24 +128,6 @@ rithm design</li>
     <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/知识工程实践报告.pdf"><strong>Report</strong></a></div></div>
 
 
-<hr>
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; max-height: 50%; max-width: 59%;">
-    <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/video-caption.png" alt="图片" style="max-width: 100%; padding: 30px">
-  </div>
-<div class='paper-box-text' style="max-width: 59%">
-    <font color="FireBrick">Video Caption Competition</font><br>
-	<ul>
-        <li>Build a multimodal model based on ResNet, S2VT model, VGGish and C3D
-feature</li>
-        <li>Beneficial to the understanding of the practical application of deep learning tech-
-nology</li>
-        <li>Achieve the third place in the competition among undergraduates and graduates</li>
-    </ul>
-        <strong>Sep. 2022 – Dec. 2022</strong><br>
-    <em>Leader</em> |
-    <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/video-caption-report.pdf"><strong>Report</strong></a> </div></div>
-
 
 <hr>
 
