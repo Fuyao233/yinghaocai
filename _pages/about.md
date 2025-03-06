@@ -29,7 +29,7 @@ Before that, I obtained my Bachelor's degree in Artificial Intelligence from [So
 
 During my undergraduate studies, I ranked among the top 3% and explored various research directions in the field of AI. Under the guidance of my professors, I led or participated in multiple research projects, some of which are outlined below.
 
-Currently, my research interests include <font color='FireBrick'><strong>graph, representation learning, AI4Biology</strong></font> and related fields. I am actively seeking a PhD supervisor whose research aligns with my interests. If you find my profile intriguing, I would greatly appreciate the opportunity to discuss potential collaborations. Please feel free to reach out to me via email, and you can find my CV [here](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.pdf). You can contact me at​ ​**hxj557@alumni.ku.dk**
+Currently, my research interests include <font color='FireBrick'><strong>graph, representation learning, reinforcement Learning</strong></font> and related fields. I am actively seeking a PhD supervisor whose research aligns with my interests. If you find my profile intriguing, I would greatly appreciate the opportunity to discuss potential collaborations. Please feel free to reach out to me via email, and you can find my CV [here](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.pdf). You can contact me at​ ​**hxj557@alumni.ku.dk**
 
 <br>
 
