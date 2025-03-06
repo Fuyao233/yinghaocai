@@ -76,7 +76,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/GExpress.png" alt="图片" style="max-width: 100%;">
   </div>
 <div class='paper-box-text' style="max-width: 59%">
-    <font color="FireBrick">Sparse and Low-Rank High-Order Tensor Regression via Parallel Proximal Method Member</font><br>
+    <font color="FireBrick">Exploring Consistency in Graph Representations: from Graph Kernels to Graph Neural Networks</font><br>
 	<ul>
         <li>Identify the consistency principle in both kernel and GNN methods for graph
 classification tasks</li>
